@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Fayazhsbd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+from turtle import color("red")
 
-<!---
-Fayazhsbd/Fayazhsbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+begin_fill()
+
+pensize(3)
+
+
+left (50)
+
+456 5
+
+forward(133) circle (50,200)
+
+
+right (140) circle(50,200)
+
+
+forward (133) end_fill()
